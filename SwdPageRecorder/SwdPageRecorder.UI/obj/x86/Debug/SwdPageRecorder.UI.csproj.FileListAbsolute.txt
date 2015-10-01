@@ -1,0 +1,17 @@
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.csprojResolveAssemblyReference.cache
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.Properties.Resources.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.SwdMain.Popups.BrowserScreenView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.SwdMain.Popups.Components.Appium.AppiumComponentView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.SwdMain.Popups.Components.WebDriver.WebDriverBrowserComponentView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.SwdMainView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.BrowserSettingsTabView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.PlayGroundView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.JavaScriptEditorView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.PageObjectSourceCodeView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.HtmlDomTesterView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.PageObjectDefinitionView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.FullHtmlSourceTabView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.SelectorsEditView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.SwitchToPopupView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.SwdMain.Tabs.BrowserScreenButtonView.resources
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.UI\obj\x86\Debug\SwdPageRecorder.UI.csproj.GenerateResource.Cache

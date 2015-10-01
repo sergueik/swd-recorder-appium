@@ -1,0 +1,1 @@
+curl -k https://api.github.com/repos/dzharii/swd-recorder/releases

@@ -1,0 +1,9 @@
+C:\developer\sergueik\swd-recorder\Bin\JavaScript\json2.js
+C:\developer\sergueik\swd-recorder\Bin\start_selenium_server.bat
+C:\developer\sergueik\swd-recorder\Bin\NLog.config
+C:\developer\sergueik\swd-recorder\Bin\JavaScript\ElementSearch.js
+C:\developer\sergueik\swd-recorder\Bin\SwdPageRecorder.WebDriver.dll
+C:\developer\sergueik\swd-recorder\Bin\SwdPageRecorder.WebDriver.pdb
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.WebDriver\obj\x86\Debug\SwdPageRecorder.WebDriver.csprojResolveAssemblyReference.cache
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.WebDriver\obj\x86\Debug\SwdPageRecorder.WebDriver.dll
+C:\developer\sergueik\swd-recorder\SwdPageRecorder\SwdPageRecorder.WebDriver\obj\x86\Debug\SwdPageRecorder.WebDriver.pdb
